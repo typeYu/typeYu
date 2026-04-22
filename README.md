@@ -39,8 +39,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=typeyu)](https://solved.ac/typeyu/)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=typeyu&theme=cold)
----
+
 ## 📜 Certifications
 
 - **Engineer Information Processing (정보처리기사)**  
